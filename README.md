@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dakshsharma2939/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshsharma2939/)
 [![E-Mail](https://img.shields.io/badge/E--Mail-D14836?logo=gmail&logoColor=white)](mailto:dakshsharma999ds@gmail.com)
 
 # 💻 Tech Stack:
